@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Student\\Source\\Repos\\Dostavka\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Source\\Repos\\delivery\\Dostavka\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{102D2F71-D771-4293-B24D-83B95AD584A9}|Dostavka\\Dostavka.csproj|c:\\users\\student\\source\\repos\\dostavka\\dostavka\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{102D2F71-D771-4293-B24D-83B95AD584A9}|Dostavka\\Dostavka.csproj|c:\\users\\user\\source\\repos\\delivery\\dostavka\\dostavka\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{102D2F71-D771-4293-B24D-83B95AD584A9}|Dostavka\\Dostavka.csproj|solutionrelative:dostavka\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{102D2F71-D771-4293-B24D-83B95AD584A9}|Dostavka\\Dostavka.csproj|c:\\users\\student\\source\\repos\\dostavka\\dostavka\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{102D2F71-D771-4293-B24D-83B95AD584A9}|Dostavka\\Dostavka.csproj|c:\\users\\user\\source\\repos\\delivery\\dostavka\\dostavka\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{102D2F71-D771-4293-B24D-83B95AD584A9}|Dostavka\\Dostavka.csproj|solutionrelative:dostavka\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -18,36 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Student\\Source\\Repos\\Dostavka\\Dostavka\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Source\\Repos\\delivery\\Dostavka\\Dostavka\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Dostavka\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Student\\Source\\Repos\\Dostavka\\Dostavka\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\Source\\Repos\\delivery\\Dostavka\\Dostavka\\MainWindow.xaml",
               "RelativeToolTip": "Dostavka\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-29T05:42:34.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-29T05:42:34.828Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Student\\Source\\Repos\\Dostavka\\Dostavka\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Source\\Repos\\delivery\\Dostavka\\Dostavka\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Dostavka\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Student\\Source\\Repos\\Dostavka\\Dostavka\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Source\\Repos\\delivery\\Dostavka\\Dostavka\\MainWindow.xaml.cs",
               "RelativeToolTip": "Dostavka\\MainWindow.xaml.cs",
               "ViewState": "AgIAAE4AAAAAAAAAAIAwwCoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T05:42:33.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-29T05:42:33.034Z"
             }
           ]
         }
